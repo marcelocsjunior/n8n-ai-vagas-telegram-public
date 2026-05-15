@@ -1,0 +1,68 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Build/cache
+coverage
+*.lcov
+.nyc_output
+.cache
+.parcel-cache
+.next
+out
+.nuxt
+dist
+.output
+.vite/
+.temp
+.svelte-kit/
+.serverless/
+.firebase/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Secrets and credentials
+*service-account*.json
+*credentials*.json
+*credential*.json
+*token*.txt
+*secret*.txt
+*.key
+*.pem
+*.p12
+
+# Personal files
+curriculo*
+curriculum*
+resume*
+cv*
+*.pdf
+*.doc
+*.docx
+
+# n8n local/runtime
+.n8n/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
