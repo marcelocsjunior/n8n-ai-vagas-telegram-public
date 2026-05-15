@@ -1,0 +1,2 @@
+data_execucao,cargo,empresa,link_vaga,score,status,modelo_ia,observacoes
+2026-05-14,Analista de Suporte,Empresa Exemplo,https://example.com/vaga,65,analisado,llama3.2:3b,Exemplo sanitizado
