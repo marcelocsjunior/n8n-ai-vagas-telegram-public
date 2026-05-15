@@ -82,3 +82,11 @@ Não versionar segredos, arquivos privados, currículo real, prints com dados se
 - Prompt definitivo: OK
 - Workflow sanitizado no GitHub: OK
 - Imagem do workflow no README: OK
+
+## Funcionalidades entregues
+
+- Download automatizado do currículo via Google Drive.
+- Leitura de critérios de vaga no Google Sheets.
+- Análise de aderência com IA local via Ollama.
+- Registro estruturado de logs no Google Sheets.
+- Envio automático do resumo final pelo Telegram.
